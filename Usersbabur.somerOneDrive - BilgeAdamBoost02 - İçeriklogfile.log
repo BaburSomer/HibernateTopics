@@ -1,0 +1,32 @@
+Eki 25, 2022 12:29:08 ÖS com.bilgeadam.course04.lesson50.util.CommonData getLogger
+INFO: Logger yaratıldı
+Eki 25, 2022 12:29:08 ÖS com.bilgeadam.course04.lesson50.util.CommonData info
+INFO: 	---> Uygulama başladı
+Eki 25, 2022 12:29:15 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri eklerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:29:15 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri eklerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:29:15 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri eklerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:29:16 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri eklerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:29:16 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri eklerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:29:16 ÖS com.bilgeadam.course04.lesson50.util.CommonData info
+INFO: 	---> Veri silindi: User(oid=0, firstName=Babür, lastName=Somer, email=babur1@somer.com, fullName=null)
+Eki 25, 2022 12:29:16 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri güncellerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:29:19 ÖS com.bilgeadam.course04.lesson50.util.CommonData info
+INFO: 	---> Uygulama bitti
+Eki 25, 2022 12:31:02 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri eklerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:31:02 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri eklerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:31:03 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri eklerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:31:03 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri eklerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:31:03 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri eklerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
+Eki 25, 2022 12:31:03 ÖS com.bilgeadam.course04.lesson50.util.CommonData error
+SEVERE: 	---> Veri güncellerken hata oluştu: Converting `org.hibernate.exception.ConstraintViolationException` to JPA `PersistenceException` : could not execute statement
